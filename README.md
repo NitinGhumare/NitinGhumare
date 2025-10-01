@@ -31,3 +31,12 @@
 ### 📊 GitHub Stats  
 ![Nitin's GitHub stats](https://github-readme-stats.vercel.app/api?username=NitinGhumare&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NitinGhumare&layout=compact&theme=radical)  
+
+
+### 🌐 Let's Connect
+- 🔗 [LinkedIn](https://www.linkedin.com/in/nitin-ghumare/)  
+- 📧 **Email:** nghumare570@gmail.com  
+- 🐙 [GitHub](https://github.com/NitinGhumare)  
+
+---
+⭐️ From [NitinGhumare](https://github.com/NitinGhumare)
